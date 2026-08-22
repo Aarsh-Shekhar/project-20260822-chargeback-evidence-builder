@@ -1,0 +1,7 @@
+{
+  "name": "threshold calibration",
+  "domain": "fintech operations",
+  "score_floor": 0.73,
+  "review_window_hours": 48,
+  "expected_action": "review"
+}
