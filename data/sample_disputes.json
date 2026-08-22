@@ -1,0 +1,146 @@
+[
+  {
+    "id": "dispute-001",
+    "exposure": 34147,
+    "signal": 0.882,
+    "urgency": 7
+  },
+  {
+    "id": "dispute-002",
+    "exposure": 1955,
+    "signal": 0.781,
+    "urgency": 4
+  },
+  {
+    "id": "dispute-003",
+    "exposure": 76664,
+    "signal": 0.708,
+    "urgency": 7
+  },
+  {
+    "id": "dispute-004",
+    "exposure": 57145,
+    "signal": 0.573,
+    "urgency": 7
+  },
+  {
+    "id": "dispute-005",
+    "exposure": 41697,
+    "signal": 0.252,
+    "urgency": 2
+  },
+  {
+    "id": "dispute-006",
+    "exposure": 55796,
+    "signal": 0.797,
+    "urgency": 1
+  },
+  {
+    "id": "dispute-007",
+    "exposure": 7575,
+    "signal": 0.271,
+    "urgency": 9
+  },
+  {
+    "id": "dispute-008",
+    "exposure": 87719,
+    "signal": 0.646,
+    "urgency": 3
+  },
+  {
+    "id": "dispute-009",
+    "exposure": 70795,
+    "signal": 0.327,
+    "urgency": 1
+  },
+  {
+    "id": "dispute-010",
+    "exposure": 63798,
+    "signal": 0.503,
+    "urgency": 5
+  },
+  {
+    "id": "dispute-011",
+    "exposure": 49017,
+    "signal": 0.917,
+    "urgency": 3
+  },
+  {
+    "id": "dispute-012",
+    "exposure": 48546,
+    "signal": 0.252,
+    "urgency": 4
+  },
+  {
+    "id": "dispute-013",
+    "exposure": 73737,
+    "signal": 0.177,
+    "urgency": 9
+  },
+  {
+    "id": "dispute-014",
+    "exposure": 76381,
+    "signal": 0.337,
+    "urgency": 2
+  },
+  {
+    "id": "dispute-015",
+    "exposure": 48842,
+    "signal": 0.676,
+    "urgency": 3
+  },
+  {
+    "id": "dispute-016",
+    "exposure": 55752,
+    "signal": 0.125,
+    "urgency": 1
+  },
+  {
+    "id": "dispute-017",
+    "exposure": 38491,
+    "signal": 0.38,
+    "urgency": 5
+  },
+  {
+    "id": "dispute-018",
+    "exposure": 64762,
+    "signal": 0.614,
+    "urgency": 3
+  },
+  {
+    "id": "dispute-019",
+    "exposure": 5952,
+    "signal": 0.938,
+    "urgency": 4
+  },
+  {
+    "id": "dispute-020",
+    "exposure": 4117,
+    "signal": 0.321,
+    "urgency": 7
+  },
+  {
+    "id": "dispute-021",
+    "exposure": 34023,
+    "signal": 0.332,
+    "urgency": 4
+  },
+  {
+    "id": "dispute-022",
+    "exposure": 65596,
+    "signal": 0.672,
+    "urgency": 9
+  },
+  {
+    "id": "dispute-023",
+    "exposure": 65530,
+    "signal": 0.298,
+    "urgency": 7
+  },
+  {
+    "id": "dispute-024",
+    "exposure": 22343,
+    "signal": 0.776,
+    "urgency": 3
+  }
+]
