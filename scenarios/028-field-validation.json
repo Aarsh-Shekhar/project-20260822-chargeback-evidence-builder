@@ -1,0 +1,7 @@
+{
+  "name": "field validation",
+  "domain": "fintech operations",
+  "score_floor": 0.38,
+  "review_window_hours": 24,
+  "expected_action": "monitor"
+}
